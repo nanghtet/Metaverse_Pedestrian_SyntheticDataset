@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImagesForAnnotation</folder>
+	<filename>00323.png</filename>
+	<path>D:\DatasetLabelling\ImagesForAnnotation\00323.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>910</xmin>
+			<ymin>98</ymin>
+			<xmax>944</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewImages</folder>
+	<filename>00438.png</filename>
+	<path>D:\DatasetLabelling\MyNewDataset\NewImages\00438.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1127</xmin>
+			<ymin>696</ymin>
+			<xmax>1193</xmax>
+			<ymax>841</ymax>
+		</bndbox>
+	</object>
+</annotation>

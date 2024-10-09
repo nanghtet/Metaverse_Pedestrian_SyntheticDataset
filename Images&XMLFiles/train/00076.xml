@@ -1,7 +1,7 @@
 <annotation>
-	<folder>ImagesForAnnotation</folder>
+	<folder>images</folder>
 	<filename>00076.png</filename>
-	<path>D:\DatasetLabelling\ImagesForAnnotation\00076.png</path>
+	<path>D:\DatasetLabelling\MyNewDataset\images\00076.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>791</xmin>
-			<ymin>311</ymin>
-			<xmax>853</xmax>
-			<ymax>453</ymax>
+			<xmin>127</xmin>
+			<ymin>562</ymin>
+			<xmax>236</xmax>
+			<ymax>858</ymax>
 		</bndbox>
 	</object>
 </annotation>

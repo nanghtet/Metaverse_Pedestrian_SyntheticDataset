@@ -1,7 +1,7 @@
 <annotation>
-	<folder>ImagesForAnnotation</folder>
+	<folder>images</folder>
 	<filename>00077.png</filename>
-	<path>D:\DatasetLabelling\ImagesForAnnotation\00077.png</path>
+	<path>D:\DatasetLabelling\MyNewDataset\images\00077.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1816</xmin>
-			<ymin>327</ymin>
-			<xmax>1893</xmax>
-			<ymax>477</ymax>
+			<xmin>112</xmin>
+			<ymin>565</ymin>
+			<xmax>200</xmax>
+			<ymax>864</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>pedestrian</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>1</difficult>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1851</xmin>
-			<ymin>305</ymin>
-			<xmax>1900</xmax>
-			<ymax>456</ymax>
+			<xmin>950</xmin>
+			<ymin>56</ymin>
+			<xmax>981</xmax>
+			<ymax>103</ymax>
 		</bndbox>
 	</object>
 </annotation>
